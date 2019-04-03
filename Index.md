@@ -1,6 +1,6 @@
 <link rel=”stylesheet” type=”text/css” media=”all” href=”style.css” />
 
-<h1> The #Becky Project </h1>
+# The #Becky Project
 
 This is a landing page for a MITH735 project-in-progress by Jonelle Walker.
 
