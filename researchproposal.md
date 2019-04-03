@@ -8,7 +8,7 @@ In April 2016, Beyonce’s song “Sorry” pushed the slang term “Becky” ba
 
 ## Relevant Research Areas & Literature
 
-#### The research areas and literature supporting this project would include:### 
+#### The research areas and literature supporting this project would include:
 * Feminist digital studies, including #TransformDH;
 * Feminist ethnography and reflexive methodologies;
 * Theories of situated knowledge, including the contributions of Black Feminist Thought and Donna Haraway;
